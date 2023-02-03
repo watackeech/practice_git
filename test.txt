@@ -1,4 +1,4 @@
 これは練習ですよ！！！
 基本的なワークフローを学びます
 git add git commit
-git diff adddddd
+git diff adddddd  
